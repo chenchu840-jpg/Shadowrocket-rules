@@ -44,7 +44,12 @@ DOMAIN,reportms.singaporepaya.com
 DOMAIN,res.sgameglobal.com
 DOMAIN,static.hok5v5.com
 DOMAIN,v2-down-gamelet.sgameglobal.com
-
+IP-CIDR,43.160.146.192/32
+IP-CIDR,43.134.67.57/32
+DOMAIN,dlied5.qq.com
+DOMAIN,sg.tux.qq.com
+DOMAIN,galileotelemetry.tencent.com
+DOMAIN,sg.galileotelemetry.tencent.com
 DOMAIN-SUFFIX,757117d71aacf773.sgameglobal.com.acc.edgeonedy1.com
 DOMAIN-SUFFIX,api.levelinfinite.com
 DOMAIN-SUFFIX,atm-broker-tcp-hok.vasdgame.com
