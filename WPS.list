@@ -1,0 +1,31 @@
+# WPS Office / Kingsoft (29 rules)
+# --- DOMAIN ---
+DOMAIN,89bg67.launches.appsflyersdk.com
+DOMAIN,abroadad.cache.wpscdn.com
+DOMAIN,ap-dw-collect.ksord.com
+DOMAIN,ap-dw-parameters.ksord.com
+DOMAIN,ap.wps.com
+DOMAIN,apppage.ks3-cn-beijing.ksyun.com
+DOMAIN,global-tiance.wpscdn.com
+DOMAIN,mo.res.wpscdn.cn
+DOMAIN,rumt-sg.com
+DOMAIN,tam.cdn-go.cn
+DOMAIN,tiance.wpscdn.cn
+DOMAIN,vasvip-pub.wpscdn.cn
+DOMAIN-SUFFIX,account.kdocs.cn
+DOMAIN-SUFFIX,clouddoc.wps.cn
+DOMAIN-SUFFIX,docer.com
+DOMAIN-SUFFIX,docer.wps.cn
+DOMAIN-SUFFIX,drive.kdocs.cn
+DOMAIN-SUFFIX,f-api.kdocs.cn
+DOMAIN-SUFFIX,f.kdocs.cn
+DOMAIN-SUFFIX,kdocs.cn
+DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,ksord.com
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,pdf.wps.com
+DOMAIN-SUFFIX,vipapi.kdocs.cn
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,wpscdn.com
