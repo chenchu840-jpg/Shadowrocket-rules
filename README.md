@@ -1,0 +1,2 @@
+# Shadowrocket-rules
+APPLE 
