@@ -1,4 +1,5 @@
 USER-AGENT,*CriOS/* Mobile*
+USER-AGENT,*AppleWebKit/*CriOS/*Mobile/*Safari/*
 DOMAIN,accounts.google.com
 DOMAIN,accounts.google.com.hk
 DOMAIN,accounts.google.com.sg
