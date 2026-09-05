@@ -1,8 +1,4 @@
-# Microsoft / Outlook / Teams (95 rules)
-# --- USER-AGENT ---
 USER-AGENT,Bing*
-
-# --- DOMAIN ---
 DOMAIN,account.live.com
 DOMAIN,account.microsoft.com
 DOMAIN,arc.msn.com
@@ -48,8 +44,6 @@ DOMAIN,support.content.office.net
 DOMAIN,teams.live.com
 DOMAIN,titles.prod.mos.microsoft.com
 DOMAIN,weathercdn.sapphire.microsoftapp.net
-
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,api.msn.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,applicationinsights.azure.com
