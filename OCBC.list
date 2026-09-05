@@ -1,5 +1,3 @@
-# OCBC / moomoo / Futu (131 rules)
-# --- DOMAIN ---
 DOMAIN,api.moomoo.com
 DOMAIN,api.moomoobull.com
 DOMAIN,apply.cimb.com.sg
@@ -55,8 +53,6 @@ DOMAIN,www.iocbc.com
 DOMAIN,www.ocbc.com
 DOMAIN,www2.iocbc.com
 DOMAIN,zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com
-
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,assets.adobedtm.com
 DOMAIN-SUFFIX,au.moomoo.com
 DOMAIN-SUFFIX,bankofsingapore.com
@@ -87,16 +83,12 @@ DOMAIN-SUFFIX,us.moomoo.com
 DOMAIN-SUFFIX,www.iocbc.com
 DOMAIN-SUFFIX,www2.iocbc.com
 DOMAIN-SUFFIX,znekzgilk8qdk63sn-ocbc.siteintercept.qualtrics.com
-
-# --- DOMAIN-KEYWORD ---
 DOMAIN-KEYWORD,eum-client
 DOMAIN-KEYWORD,futuclearing
 DOMAIN-KEYWORD,futuhk
 DOMAIN-KEYWORD,futunn
 DOMAIN-KEYWORD,futusg
 DOMAIN-KEYWORD,moomoo
-
-# --- IP-CIDR ---
 IP-CIDR,101.32.143.6/32
 IP-CIDR,101.32.173.177/32
 IP-CIDR,101.33.192.19/32
@@ -134,8 +126,6 @@ IP-CIDR,43.163.63.148/32
 IP-CIDR,49.51.78.184/32
 IP-CIDR,49.51.78.222/32
 IP-CIDR,49.51.79.238/32
-
-# --- IP-ASN ---
 IP-ASN,142250,no-resolve
 IP-ASN,154316,no-resolve
 IP-ASN,154319,no-resolve
