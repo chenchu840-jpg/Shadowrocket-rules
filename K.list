@@ -1,5 +1,3 @@
-# Honor of Kings
-
 DOMAIN,757117d71aacf773.sgameglobal.com.acc.edgeonedy1.com
 DOMAIN,act.sgameglobal.com
 DOMAIN,api-camp.honorofkings.com
@@ -106,10 +104,8 @@ DOMAIN-SUFFIX,tiem-cdn.qq.com
 DOMAIN-SUFFIX,us.pro.intlgame.com
 DOMAIN-SUFFIX,vasdgame.com
 DOMAIN-SUFFIX,wetest.net
-
 DOMAIN-KEYWORD,honorofkings
 DOMAIN-KEYWORD,levelinfinite
-
 DOMAIN-WILDCARD,*.sgameglobal.com.acc.edgeonedy1.com
 DOMAIN-WILDCARD,*.zga.globalconnetct.com
 DOMAIN-WILDCARD,download.2.*.hokglobalgcloud.iegcom.com
@@ -117,8 +113,6 @@ DOMAIN-WILDCARD,game-image-*.cos.ap-singapore.myqcloud.com
 DOMAIN-WILDCARD,gromelink-link-sg.*.eo.dnse3.com
 DOMAIN-WILDCARD,image-*.file.myqcloud.com
 DOMAIN-WILDCARD,lipass-steam-*.cos.ap-singapore.myqcloud.com
-
-# --- IP-CIDR ---
 IP-CIDR,129.226.210.121/32
 IP-CIDR,162.62.125.251/32
 IP-CIDR,43.132.138.111/32
