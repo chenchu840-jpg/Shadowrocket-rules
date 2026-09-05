@@ -1,8 +1,4 @@
-# LINE (101 rules)
-# --- USER-AGENT ---
 USER-AGENT,Line*
-
-# --- DOMAIN ---
 DOMAIN,access.line.me
 DOMAIN,ads.as.criteo.com
 DOMAIN,ads.rubiconproject.com
@@ -75,8 +71,6 @@ DOMAIN,va-trk.smadex.com
 DOMAIN,videos.taboola.com
 DOMAIN,vos.line-scdn.net
 DOMAIN,yads.c.yimg.jp
-
-# --- DOMAIN-SUFFIX ---
 DOMAIN-SUFFIX,account.line.me
 DOMAIN-SUFFIX,ad-api.line-apps.com
 DOMAIN-SUFFIX,api.line.me
@@ -104,6 +98,4 @@ DOMAIN-SUFFIX,stickershop.line-scdn.net
 DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,taboolanews.com
 DOMAIN-SUFFIX,today.line.me
-
-# --- IP-ASN ---
 IP-ASN,38631,no-resolve
