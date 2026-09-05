@@ -1,5 +1,3 @@
-# Wise / iFAST (43 rules)
-
 DOMAIN,api-docs.wise.com
 DOMAIN,api.mixpanel.com
 DOMAIN,api.wise.com
@@ -29,7 +27,6 @@ DOMAIN,wise.com
 DOMAIN,www.ifastgb.com
 DOMAIN,www.msftncsi.com
 DOMAIN,www.wise.com
-
 DOMAIN-SUFFIX,fsmone.com
 DOMAIN-SUFFIX,fundsupermart.com
 DOMAIN-SUFFIX,ifastcorp.com
