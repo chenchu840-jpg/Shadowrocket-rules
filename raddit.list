@@ -1,7 +1,4 @@
-# Reddit (47 rules)
-# --- USER-AGENT ---
 USER-AGENT,Reddit*
-# --- DOMAIN ---
 DOMAIN,alb.reddit.com
 DOMAIN,amp.reddit.com
 DOMAIN,api3.branch.io
