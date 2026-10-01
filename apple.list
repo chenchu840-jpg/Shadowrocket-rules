@@ -1,3 +1,9 @@
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,2403:300::/32,no-resolve
+IP-CIDR,2620:149::/32,no-resolve
+IP-CIDR,2A01:B740::/32,no-resolve
+IP-ASN,6185,no-resolve
+IP-ASN,714,no-resolve
 DOMAIN-WILDCARD,cl*-cn.apple.com
 DOMAIN-WILDCARD,gsp*-ssl.ls.apple.com
 DOMAIN-WILDCARD,gspe*-*-cn-ssl.ls.apple.com
@@ -280,9 +286,3 @@ DOMAIN-KEYWORD,itunes
 DOMAIN-KEYWORD,mesu
 DOMAIN-KEYWORD,mzstatic
 DOMAIN-KEYWORD,smoot
-IP-CIDR,17.0.0.0/8,no-resolve
-IP-CIDR,2403:300::/32,no-resolve
-IP-CIDR,2620:149::/32,no-resolve
-IP-CIDR,2A01:B740::/32,no-resolve
-IP-ASN,6185,no-resolve
-IP-ASN,714,no-resolve
