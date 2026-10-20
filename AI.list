@@ -1,3 +1,16 @@
+DOMAIN,chatgpt.com
+DOMAIN,chat.openai.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,ws.chatgpt.com
+DOMAIN,auth.openai.com
+DOMAIN,setup.auth.openai.com
+DOMAIN,api.openai.com
+DOMAIN,openai.com
+DOMAIN,files.oaiusercontent.com
+DOMAIN,setup.workos.com
+DOMAIN,forwarder.workos.com
+DOMAIN,frontend-apps-multi-region.workos.com
+DOMAIN,challenges.cloudflare.com
 DOMAIN,ab.chatgpt.com
 DOMAIN,android.chat.openai.com
 DOMAIN,api.oaistatsig.com
